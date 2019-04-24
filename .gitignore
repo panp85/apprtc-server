@@ -5,7 +5,7 @@ bower_components
 browser*
 firefox*
 node_modules
-out
+#out
 rtstats.js
 secrets.json
 source-context*.json
